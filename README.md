@@ -9,7 +9,9 @@ Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure 
 3. Most used city for the three days?
 4. which product has the highest value used for the  3 days 
 5. which product is most used during the business hour 
-6. 
+6. Busiest time of the day
+7. cell with the highest income
+8. 
 We follow CRISP-DM process to generate Data Report , perform  comparative statistical analysis examining Most used city for the three days? and the question above,. We perform significance and effect size testing to evaluate strength of our findings. 
 
 ## Findings
@@ -31,7 +33,7 @@ python  3.8.0 with the following packages
  3. numpy
 4. pandas
 5. .seaborn
-google docs to write the data report 
+6. google docs to write the data report 
 
 
 
