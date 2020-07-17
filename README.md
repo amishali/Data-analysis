@@ -5,13 +5,16 @@
 Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure for its mobile users in Ivory Coast. Studying the given dataset, how does MTN Cote d'Ivoire go about the upgrade of its infrastructure strategy within the given cities? in this project Below are some questions that can get you started ;
 
 1. Which ones were the most used city for the three days?
-2.  Which cities were the most used during business and home hours?
-3. Most used city for the three days?
+2. which region /area used the MTN product highly
+3. which cities used the MTN products the most over the 3 days 
 4. which product has the highest value used for the  3 days 
 5. which product is most used during the business hour 
 6. Busiest time of the day
 7. cell with the highest income
-8. busisest cell
+8. which product   logged the most activities during the business hour 
+9. which cities logged the most activities during the business hour
+10. which product logged the most activities during home hour 
+11.  which cities logged the most activities during home hour 
 
 {We follow CRISP-DM process to generate Data Report , perform  comparative statistical analysis examining Most used city for the three days? and the question above,. We perform significance and effect size testing to evaluate strength of our findings and give recommendation . }
 
