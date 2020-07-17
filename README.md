@@ -12,7 +12,8 @@ Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure 
 6. Busiest time of the day
 7. cell with the highest income
 8. busisest cell
-We follow CRISP-DM process to generate Data Report , perform  comparative statistical analysis examining Most used city for the three days? and the question above,. We perform significance and effect size testing to evaluate strength of our findings and give recommendation . 
+
+{We follow CRISP-DM process to generate Data Report , perform  comparative statistical analysis examining Most used city for the three days? and the question above,. We perform significance and effect size testing to evaluate strength of our findings and give recommendation . }
 
 ## Findings  of the analysis
 
