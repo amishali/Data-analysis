@@ -16,8 +16,6 @@ Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure 
 {We follow CRISP-DM process to generate Data Report , perform  comparative statistical analysis examining Most used city for the three days? and the question above,. We perform significance and effect size testing to evaluate strength of our findings and give recommendation . }
 
 ## Findings  of the analysis
-city used for the most days 
-![](x)
 
 
 # Data 
